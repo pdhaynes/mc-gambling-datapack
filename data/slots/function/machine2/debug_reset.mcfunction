@@ -1,0 +1,14 @@
+execute run scoreboard players set #diamondmaxwin_active Slots 0
+execute run scoreboard players set #diamondmaxwin Slots 0
+execute run scoreboard players set #goldmaxwin_active Slots 0
+execute run scoreboard players set #goldmaxwin Slots 0
+execute run scoreboard players set #redstonemaxwin_active Slots 0
+execute run scoreboard players set #redstonemaxwin Slots 0
+execute run scoreboard players set #melonmaxwin_active Slots 0
+execute run scoreboard players set #melonmaxwin Slots 0
+execute run scoreboard players set #minor_payout_active Slots 0
+execute run scoreboard players set #minor_payout Slots 0
+execute run scoreboard players set #berrybonus_active Slots 0
+execute run scoreboard players set #berrybonus Slots 0
+execute run scoreboard players set #dirtymeatbonus_active Slots 0
+execute run scoreboard players set #dirtymeatbonus Slots 0
